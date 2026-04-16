@@ -1,4 +1,4 @@
-# Wrong by One Step: A Kernel Theory of Fine-Tuning Failures on Causal Proof Chains
+# Near-Miss by One Step: A Kernel Theory of Degeneracy in Fine-Tuning Causal Proofs
 
 Comprehensive codebase for training and evaluating decoder-only logical reasoning systems on proof-chain generation, repair, and depth-wise performance analysis.
 
